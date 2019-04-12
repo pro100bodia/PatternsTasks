@@ -1,0 +1,5 @@
+﻿*.class
+*.db
+.idea
+out
+[A-Z]
